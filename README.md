@@ -1,7 +1,9 @@
 # 💡 Модуль управления адресными светодиодами
 
-**Версия платы:** 0.1  
-**Файлы проекта:** Altium Designer
+[![Организация](https://img.shields.io/badge/Org-KoshI-blue?style=flat-square)](https://github.com/KoshI)
+[![Версия платы](https://img.shields.io/badge/Версия-0.1-orange?style=flat-square)]()
+[![Статус](https://img.shields.io/badge/Статус-прототип-yellow?style=flat-square)]()
+[![Лицензия](https://img.shields.io/badge/Лицензия-MIT-green?style=flat-square)]()
 
 ---
 
