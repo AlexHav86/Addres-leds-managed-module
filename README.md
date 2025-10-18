@@ -1,3 +1,18 @@
+
+<p align="center">
+  <pre style="font-family: 'Consolas', monospace; color:#5f87d6; background-color:#1e1e1e; padding:16px; border-radius:12px;">
+██╗  ██╗ ██████╗ ███████╗██╗  ██╗██╗
+██║ ██╔╝██╔═══██╗██╔════╝██║ ██╔╝██║
+█████╔╝ ██║   ██║█████╗  █████╔╝ ██║
+██╔═██╗ ██║   ██║██╔══╝  ██╔═██╗ ██║
+██║  ██╗╚██████╔╝██║     ██║  ██╗███████╗
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝
+          HARDWARE • KoshI
+  </pre>
+</p>
+
+
+
 # 💡 Модуль управления адресными светодиодами
 
 [![Организация](https://img.shields.io/badge/Org-KoshI-blue?style=flat-square)](https://github.com/KoshI)
