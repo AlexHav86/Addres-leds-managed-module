@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+5В Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=+5В Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=+5В Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=+5В Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=RESET Pin=SB1-1
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=C10
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=C11
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=C12
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=C13
+Added Component: Designator=SB1(B3U1000P)
+Added Pin To Net: NetName=RESET Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-2

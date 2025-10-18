@@ -1,0 +1,216 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=C1
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=C2
+Add Component: Footprint Not Found 348269160
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPC1608M)
+Add component (AddParameter): Name = "Capacitance,uF"; Value = "0.1 ±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component height, mm"; Value = "0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gomponent weight, g"; Value = "0,007"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature range,°С"; Value = "-55...+125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated voltage, Vdc"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size code in inch(mm)"; Value = "0603 (1608M)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature characteristics"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0,1 мк"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 X7R 0,1uF 50V 10%, CC0603KRX7R9BB104, Yageo"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Tracopower
+Add Component: Footprint Not Found SOIC-16
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin *-5
+Add Pin To Net: Unknown Pin: Pin *-6
+Add Pin To Net: Unknown Pin: Pin *-7
+Add Pin To Net: Unknown Pin: Pin *-8
+Add Pin To Net: Unknown Pin: Pin *-9
+Add Pin To Net: Unknown Pin: Pin *-10
+Add Pin To Net: Unknown Pin: Pin *-12
+Add Pin To Net: Unknown Pin: Pin *-13
+Add Pin To Net: Unknown Pin: Pin *-14
+Add Pin To Net: Unknown Pin: Pin *-15
+Add Pin To Net: Unknown Pin: Pin *-16
+Added Pin To Net: NetName=+5В_avr Pin=C?-1
+Added Pin To Net: NetName=+5В_avr Pin=C?-1
+Added Pin To Net: NetName=+5В_avr Pin=C?-1
+Added Pin To Net: NetName=+5В_avr Pin=C?-1
+Added Pin To Net: NetName=+5В Pin=C?-1
+Added Pin To Net: NetName=+5В Pin=C?-1
+Added Pin To Net: NetName=+5В Pin=C?-1
+Added Pin To Net: NetName=+5В Pin=C?-1
+Added Pin To Net: NetName=+24В Pin=C?-1
+Added Pin To Net: NetName=+24В Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=24GND Pin=C?-2
+Added Pin To Net: NetName=24GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin DA-1
+Add Pin To Net: Unknown Pin: Pin DA-2
+Add Pin To Net: Unknown Pin: Pin DA-3
+Add Pin To Net: Unknown Pin: Pin DA-4
+Add Pin To Net: Unknown Pin: Pin DD4-1
+Add Pin To Net: Unknown Pin: Pin DD4-2
+Add Pin To Net: Unknown Pin: Pin DD4-3
+Add Pin To Net: Unknown Pin: Pin DD4-4
+Add Pin To Net: Unknown Pin: Pin DD4-5
+Add Pin To Net: Unknown Pin: Pin DD4-6
+Add Pin To Net: Unknown Pin: Pin DD4-7
+Add Pin To Net: Unknown Pin: Pin DD4-8
+Add Pin To Net: Unknown Pin: Pin DD4-9
+Add Pin To Net: Unknown Pin: Pin DD4-10
+Add Pin To Net: Unknown Pin: Pin DD4-11
+Add Pin To Net: Unknown Pin: Pin DD4-12
+Add Pin To Net: Unknown Pin: Pin DD4-13
+Add Pin To Net: Unknown Pin: Pin DD4-14
+Add Pin To Net: Unknown Pin: Pin DD4-15
+Add Pin To Net: Unknown Pin: Pin DD4-16
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=DD2-8
+Added Pin To Net: NetName=NetC?_2 Pin=G1-3
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Class Member: Failed to add class member : Component * 348269160
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C? CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Add Class Member: Failed to add class member : Component DA Tracopower
+Add Class Member: Failed to add class member : Component DD4 IS-281-4

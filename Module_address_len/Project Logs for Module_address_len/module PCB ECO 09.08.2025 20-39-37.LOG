@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LENT_1 Pin=DD2-14
+Removed Pin From Net: NetName=Sens_4_avr Pin=DD2-25
+Removed Pin From Net: NetName=Sens_5_avr Pin=DD2-26
+Added Pin To Net: NetName=Sens_4_avr Pin=DD2-10
+Added Pin To Net: NetName=Sens_5_avr Pin=DD2-14
+Added Pin To Net: NetName=LENT_1 Pin=DD2-25

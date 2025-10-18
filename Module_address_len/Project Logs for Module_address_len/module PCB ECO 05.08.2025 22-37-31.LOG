@@ -1,0 +1,77 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Added Component: Designator=DA(Tracopower)
+Add Component: Footprint Not Found SOIC-16
+Added Component: Designator=X1(348269160)
+Added Component: Designator=X2(348269160)
+Added Pin To Net: NetName=+24В Pin=DA-1
+Added Pin To Net: NetName=+24В Pin=DA-1
+Added Pin To Net: NetName=24GND Pin=DA-2
+Added Pin To Net: NetName=24GND Pin=DA-2
+Added Pin To Net: NetName=GND Pin=DA-3
+Added Pin To Net: NetName=+5В Pin=DA-4
+Add Pin To Net: Unknown Pin: Pin DD4-1
+Add Pin To Net: Unknown Pin: Pin DD4-2
+Add Pin To Net: Unknown Pin: Pin DD4-3
+Add Pin To Net: Unknown Pin: Pin DD4-4
+Add Pin To Net: Unknown Pin: Pin DD4-5
+Add Pin To Net: Unknown Pin: Pin DD4-6
+Add Pin To Net: Unknown Pin: Pin DD4-7
+Add Pin To Net: Unknown Pin: Pin DD4-8
+Add Pin To Net: Unknown Pin: Pin DD4-9
+Add Pin To Net: Unknown Pin: Pin DD4-10
+Add Pin To Net: Unknown Pin: Pin DD4-11
+Add Pin To Net: Unknown Pin: Pin DD4-12
+Add Pin To Net: Unknown Pin: Pin DD4-13
+Add Pin To Net: Unknown Pin: Pin DD4-14
+Add Pin To Net: Unknown Pin: Pin DD4-15
+Add Pin To Net: Unknown Pin: Pin DD4-16
+Added Pin To Net: NetName=+24В Pin=X2-1
+Added Pin To Net: NetName=Sens_1 Pin=X2-2
+Added Pin To Net: NetName=Sens_2 Pin=X2-3
+Added Pin To Net: NetName=Sens_3 Pin=X2-4
+Added Pin To Net: NetName=Sens_4 Pin=X2-5
+Added Pin To Net: NetName=24GND Pin=X2-6
+Added Pin To Net: NetName=+24В Pin=X2-7
+Added Pin To Net: NetName=Sens_5 Pin=X2-8
+Added Pin To Net: NetName=+5В Pin=X2-9
+Added Pin To Net: NetName=GND Pin=X2-12
+Added Pin To Net: NetName=+5В Pin=X2-13
+Added Pin To Net: NetName=GND Pin=X2-15
+Added Pin To Net: NetName=24GND Pin=X2-16
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC2_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DD2-7
+Added Pin To Net: NetName=NetC1_2 Pin=G1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=X2-10
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=X2-14
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C1 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C2 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C4 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C5 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C6 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C7 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C8 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C9 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C10 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C12 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C13 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component DA Tracopower
+Add Class Member: Failed to add class member : Component DD4 IS-281-4
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component X1 348269160
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component X2 348269160

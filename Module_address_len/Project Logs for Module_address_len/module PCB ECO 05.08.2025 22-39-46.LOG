@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Лист 1. Основной модуль. SchDoc Member=X1
+Added Component: Designator=DD4(SOIC16)
+Added Pin To Net: NetName=Sens_1 Pin=DD4-1
+Added Pin To Net: NetName=NetDD4_2 Pin=DD4-2
+Added Pin To Net: NetName=Sens_2 Pin=DD4-3
+Added Pin To Net: NetName=NetDD4_4 Pin=DD4-4
+Added Pin To Net: NetName=Sens_3 Pin=DD4-5
+Added Pin To Net: NetName=NetDD4_6 Pin=DD4-6
+Added Pin To Net: NetName=Sens_4 Pin=DD4-7
+Added Pin To Net: NetName=NetDD4_8 Pin=DD4-8
+Added Pin To Net: NetName=GND Pin=DD4-9
+Added Pin To Net: NetName=NetDD4_10 Pin=DD4-10
+Added Pin To Net: NetName=GND Pin=DD4-11
+Added Pin To Net: NetName=NetDD4_12 Pin=DD4-12
+Added Pin To Net: NetName=GND Pin=DD4-13
+Added Pin To Net: NetName=NetDD4_14 Pin=DD4-14
+Added Pin To Net: NetName=GND Pin=DD4-15
+Added Pin To Net: NetName=NetDD4_16 Pin=DD4-16
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C1 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component C2 CC0603KRX7R8BB104 (0603 X7R 0,1uF 50V 10%)_1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component DD4 IS-281-4

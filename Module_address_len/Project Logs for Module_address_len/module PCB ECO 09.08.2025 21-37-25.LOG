@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5В Pin=XP4-1
+Added Pin To Net: NetName=+5В_avr Pin=XP4-1
+Added Member To Class: ClassName=Лист 1. Основной модуль. SchDoc Member=Component SB1 Butt

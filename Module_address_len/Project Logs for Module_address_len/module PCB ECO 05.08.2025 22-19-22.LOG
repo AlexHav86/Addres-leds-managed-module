@@ -1,0 +1,402 @@
+Add Component: Footprint Not Found 348269160
+Added Component: Designator=C1(CC0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение от номинала"; Value = "%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочее напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CC0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение от номинала"; Value = "%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочее напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CC_T491C476K016AT)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Отклонение от номинала"; Value = "%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочее напряжение"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ёмкость"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found CAPC1608M
+Add Component: Footprint Not Found Tracopower
+Added Component: Designator=DD1(SOT-223)
+Added Component: Designator=DD2(ATmega328P_TQFP)
+Added Component: Designator=DD3(IS-281)
+Add Component: Footprint Not Found SOIC-16
+Added Component: Designator=G1(EPSON TSX-3225)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "7B25000O01"; VariantName = "[No Variations]"
+Added Component: Designator=HL1(LED 0603_1608 BLUE)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Светодиод"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 1k 1%, RC0603FR-071KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 1k 1%, RC0603FR-071KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 1k 1%, RC0603FR-071KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1608M)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(TE FSM4JSMA)
+Add component (AddParameter): Name = "Value"; Value = "IT-1102WA8-160G-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOD-323)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(4pins_2.54)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "4 pins"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(2pins_2.54)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "4 pins"; VariantName = "[No Variations]"
+Added Component: Designator=XP3(2pins_2.54)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "4 pins"; VariantName = "[No Variations]"
+Added Component: Designator=XP4(6pins_2.54)
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "4 pins"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5В_avr Pin=DD1-3
+Added Pin To Net: NetName=+5В_avr Pin=DD1-3
+Added Pin To Net: NetName=+5В_avr Pin=DD2-4
+Added Pin To Net: NetName=+5В_avr Pin=DD2-6
+Added Pin To Net: NetName=+5В_avr Pin=DD2-18
+Added Pin To Net: NetName=+5В_avr Pin=R6-2
+Added Pin To Net: NetName=+5В_avr Pin=XP2-2
+Added Pin To Net: NetName=+5В_avr Pin=XP3-2
+Added Net: Name=+5В_avr
+Added Pin To Net: NetName=+5В Pin=DD1-1
+Added Pin To Net: NetName=+5В Pin=XP4-1
+Added Net: Name=+5В
+Added Pin To Net: NetName=+24В Pin=C3-1
+Added Pin To Net: NetName=+24В Pin=VD1-2
+Added Net: Name=+24В
+Added Pin To Net: NetName=24GND Pin=C3-2
+Added Pin To Net: NetName=24GND Pin=VD1-1
+Added Net: Name=24GND
+Added Pin To Net: NetName=ADC_1 Pin=DD2-19
+Added Pin To Net: NetName=ADC_1 Pin=R3-2
+Added Pin To Net: NetName=ADC_1 Pin=XP2-1
+Added Net: Name=ADC_1
+Added Pin To Net: NetName=ADC_2 Pin=DD2-22
+Added Pin To Net: NetName=ADC_2 Pin=R5-2
+Added Pin To Net: NetName=ADC_2 Pin=XP3-1
+Added Net: Name=ADC_2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=GND Pin=DD2-3
+Added Pin To Net: NetName=GND Pin=DD2-5
+Added Pin To Net: NetName=GND Pin=DD2-21
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=G1-2
+Added Pin To Net: NetName=GND Pin=G1-4
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Pin To Net: NetName=GND Pin=XP4-3
+Added Net: Name=GND
+Added Pin To Net: NetName=LENT_1 Pin=DD2-9
+Added Pin To Net: NetName=LENT_1 Pin=R2-2
+Added Net: Name=LENT_1
+Added Pin To Net: NetName=LENT_2 Pin=DD2-10
+Added Pin To Net: NetName=LENT_2 Pin=R1-2
+Added Net: Name=LENT_2
+Added Pin To Net: NetName=MISO Pin=DD2-16
+Added Pin To Net: NetName=MISO Pin=XP4-4
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=DD2-15
+Added Pin To Net: NetName=MOSI Pin=XP4-2
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net*_10 Pin=R1-1
+Added Net: Name=Net*_10
+Added Pin To Net: NetName=Net*_14 Pin=R2-1
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DD2-7
+Added Pin To Net: NetName=NetC1_2 Pin=G1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=DD2-8
+Added Pin To Net: NetName=NetC2_2 Pin=G1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetDD2_24 Pin=DD2-24
+Added Pin To Net: NetName=NetDD2_24 Pin=HL1-1
+Added Net: Name=NetDD2_24
+Added Pin To Net: NetName=NetDD3_2 Pin=DD3-2
+Added Pin To Net: NetName=NetDD3_2 Pin=R8-2
+Added Net: Name=NetDD3_2
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=NetDD3_4 Pin=R7-1
+Added Net: Name=NetDD3_4
+Added Pin To Net: NetName=NetDD4_2 Pin=R10-2
+Added Net: Name=NetDD4_2
+Added Pin To Net: NetName=NetDD4_4 Pin=R12-2
+Added Net: Name=NetDD4_4
+Added Pin To Net: NetName=NetDD4_6 Pin=R14-2
+Added Net: Name=NetDD4_6
+Added Pin To Net: NetName=NetDD4_8 Pin=R16-2
+Added Net: Name=NetDD4_8
+Added Pin To Net: NetName=NetDD4_10 Pin=R15-1
+Added Net: Name=NetDD4_10
+Added Pin To Net: NetName=NetDD4_12 Pin=R13-1
+Added Net: Name=NetDD4_12
+Added Pin To Net: NetName=NetDD4_14 Pin=R11-1
+Added Net: Name=NetDD4_14
+Added Pin To Net: NetName=NetDD4_16 Pin=R9-1
+Added Net: Name=NetDD4_16
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R4-2
+Added Net: Name=NetHL1_2
+Added Pin To Net: NetName=RESET Pin=DD2-29
+Added Pin To Net: NetName=RESET Pin=R6-1
+Added Pin To Net: NetName=RESET Pin=SB1-1
+Added Pin To Net: NetName=RESET Pin=XP4-6
+Added Net: Name=RESET
+Added Pin To Net: NetName=RX Pin=DD2-30
+Added Pin To Net: NetName=RX Pin=XP1-1
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=DD2-17
+Added Pin To Net: NetName=SCK Pin=XP4-5
+Added Net: Name=SCK
+Added Pin To Net: NetName=Sens_1_avr Pin=DD2-12
+Added Pin To Net: NetName=Sens_1_avr Pin=R9-2
+Added Net: Name=Sens_1_avr
+Added Net: Name=Sens_1
+Added Pin To Net: NetName=Sens_2_avr Pin=DD2-13
+Added Pin To Net: NetName=Sens_2_avr Pin=R11-2
+Added Net: Name=Sens_2_avr
+Added Net: Name=Sens_2
+Added Pin To Net: NetName=Sens_3_avr Pin=DD2-14
+Added Pin To Net: NetName=Sens_3_avr Pin=R13-2
+Added Net: Name=Sens_3_avr
+Added Net: Name=Sens_3
+Added Pin To Net: NetName=Sens_4_avr Pin=DD2-25
+Added Pin To Net: NetName=Sens_4_avr Pin=R15-2
+Added Net: Name=Sens_4_avr
+Added Net: Name=Sens_4
+Added Pin To Net: NetName=Sens_5_avr Pin=DD2-26
+Added Pin To Net: NetName=Sens_5_avr Pin=R7-2
+Added Net: Name=Sens_5_avr
+Added Pin To Net: NetName=Sens_5 Pin=DD3-1
+Added Net: Name=Sens_5
+Added Pin To Net: NetName=TX Pin=DD2-31
+Added Pin To Net: NetName=TX Pin=XP1-3
+Added Net: Name=TX
+Added Class: Name=Лист 1. Основной модуль. SchDoc
+Added Class: Name=SPI
+Added Class: Name=UART
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
