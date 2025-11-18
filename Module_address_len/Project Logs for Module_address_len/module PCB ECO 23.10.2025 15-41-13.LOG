@@ -1,0 +1,86 @@
+Added Component: Designator=R17(RESISTOR_0603_IPC782)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESISTOR_0603_IPC782)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESISTOR_0603_IPC782)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESISTOR_0603_IPC782)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESISTOR_0603_IPC782)
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "chip0603 10k 1%, RC0603FR-0710KL, Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Аналог"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Допуск,%"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Максимально допустимое напряжение, В"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Мощность, Вт"; Value = "0,1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное напряжение, В"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Номинальное сопротивление, кОм"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Примечание"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Рабочий диапазон температур,°С"; Value = "-55...+155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Тип корпуса"; Value = "0603"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(TE FSM4JSMA)
+Add component (AddParameter): Name = "Value"; Value = "IT-1102WA8-160G-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IT-1102WA8-160G-G"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EN Pin=R17-1
+Added Pin To Net: NetName=+5В_avr/+3_3_ESP Pin=R17-2
+Added Pin To Net: NetName=IO2 Pin=R18-1
+Added Pin To Net: NetName=+5В_avr/+3_3_ESP Pin=R18-2
+Added Pin To Net: NetName=IO15 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=IO0 Pin=R20-1
+Added Pin To Net: NetName=SCK/DTR Pin=R20-2
+Added Pin To Net: NetName=+5В_avr/+3_3_ESP Pin=R21-1
+Added Pin To Net: NetName=SCK/DTR Pin=R21-2
+Added Pin To Net: NetName=IO0 Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-3
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component R17 RC0603FR-0710KL (0603 10k 1%)
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component R18 RC0603FR-0710KL (0603 10k 1%)
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component R19 RC0603FR-0710KL (0603 10k 1%)
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component R20 RC0603FR-0710KL (0603 10k 1%)
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component R21 RC0603FR-0710KL (0603 10k 1%)
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component SB2 button IT-1102WA8-160G-G

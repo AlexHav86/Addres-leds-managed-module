@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Sens_1_avr Pin=DD5-5
+Removed Pin From Net: NetName=Sens_3_avr Pin=DD5-6
+Removed Pin From Net: NetName=Sens_2_avr Pin=DD5-7
+Removed Pin From Net: NetName=IO0 Pin=SB2-1
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=Sens_3_avr Pin=DD5-5
+Added Pin To Net: NetName=Sens_2_avr Pin=DD5-6
+Added Pin To Net: NetName=Sens_1_avr Pin=DD5-7
+Added Pin To Net: NetName=IO0 Pin=SB2-1
+Add Pin To Net: Unknown Pin: Pin SB2-3
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component DD5 ESP8266
+Added Member To Class: ClassName=Лист 3. ESP8266 Member=Component SB2 button IT-1102WA8-160G-G
